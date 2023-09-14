@@ -1,5 +1,6 @@
 :host {
-  --content-padding: 10px;
+  --content-padding: 20px;
+
 }
 header {
   display: block;
@@ -9,4 +10,5 @@ header {
 }
 .content {
   padding: var(--content-padding);
+  
 }
