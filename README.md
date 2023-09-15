@@ -1,17 +1,17 @@
-#Homes Angular App
+# Homes Angular App
 
-###Description
+### Description
 
 Angular project test framework. This project serves as a test bed for various Angular functionalities and is designed using Angular version 16.1.0-rc.0.
 
-###Getting Started
+### Getting Started
 
-####Prerequisites
+#### Prerequisites
 
 Node.js
 Angular CLI
 
-####Installation
+#### Installation
 
 1.Clone the repository
 
@@ -25,7 +25,7 @@ git clone https://github.com/Emmanuel97423/homes-angular.git
 npm i
 ```
 
-####Scripts
+#### Scripts
 
 Here are some quick npm scripts for development:
 
@@ -35,15 +35,15 @@ Here are some quick npm scripts for development:
 `npm run e2e`: Runs end-to-end tests.
 `npm run watch`: Build the project in watch mode.
 
-####Built With
+#### Built With
 
 Angular (16.1.0-rc.0)
 RxJS (7.8.0)
 TypeScript (4.9.3)
 
-####Dependencies
+#### Dependencies
 
-######Main Dependencies
+###### Main Dependencies
 
 `@angular/animations`
 `@angular/common`
@@ -55,7 +55,7 @@ TypeScript (4.9.3)
 `@angular/router`
 `rxjs`
 
-######Development Dependencies
+###### Development Dependencies
 
 `@angular-devkit/build-angular`
 `@angular/cli`
@@ -64,6 +64,6 @@ TypeScript (4.9.3)
 `jasmine-core`
 `karma`
 
-#####License
+##### License
 
 This project is licensed under the MIT License.
